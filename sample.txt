@@ -1,3 +1,4 @@
 first commit is successfully done .
 git-hub repository editing is done there. 
 local repository editing system fully successfully .
+number1 is created now .by the way is editing.
