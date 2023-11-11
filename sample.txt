@@ -1,6 +1,9 @@
 first commit is successfully done .
 git-hub repository editing is done there. 
 local repository editing system fully successfully .
-github main branch create or editing .
+
+
+number1 is created now .by the way is editing.
+ithub main branch create or editing .
 github main branch create or second edition system done here now .
-third branch is editing here now .
+third branch is editing here now 
