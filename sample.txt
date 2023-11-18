@@ -10,4 +10,6 @@ number1 is created now .by the way is editing.
 number 2 is added text .
 git clone is successfully  done there now .
 gi clone is second time is done here n.
-featured1 text is edit here now .
+
+git featured2 branch is okkays .
+
