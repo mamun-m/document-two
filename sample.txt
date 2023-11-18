@@ -8,3 +8,4 @@ third branch is editing here now .
 number1 is created now .by the way is editing.
 
 number 2 is added text .
+git clone is successfully  done there now .
