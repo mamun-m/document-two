@@ -12,4 +12,6 @@ git clone is successfully  done there now .
 gi clone is second time is done here n.
 
 git featured2 branch is okkays .
+featured3 branch is active .
+
 
